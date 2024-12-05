@@ -34,6 +34,8 @@ PropertyChanged イベントを発生させるコードを追加する必要が�
 </br></br>
 
 
+<hr>
+
 <h2>Factory Method デザインパターン</h2>
 GameSessionコンストラクタ内で新しいオブジェクト（Player, Location, Monster, Itemなど）を初期化し、</br>
 プロパティとして保存する事が可能だが、各クラスを初期化する度に多くのコードを追加する必要となる。</br>
@@ -43,10 +45,12 @@ ItemFactoryクラスを初期化することで、コードが整理しやすく
 Factoriesフォルダー内には、ItemFactory、MonsterFactory、QuestFactory、RecipeFactory、WorldFactory、などのinternal staticクラスがある。</br>
 </br></br>
 
+
+
+<hr>
+
 ![マップ映像](https://github.com/SEFWHITE-Dev/C-Sharp-SimpleRPG/tree/main/Images/Map.png?raw=true)</br>
 マップでは９か所に移動が可能。座標によってエンカウントするエンティティが変わる。</br>
-
-
 
 エンカウント種類:</br>
 ・ショップ</br>
