@@ -3,7 +3,7 @@ An RPG created using C# and WPF implementing the ViewModel design logic.
 
 C#とWPF(Windows Presentation Foundation) XAMLを使用してUIの表示を行い、ゲームエンジンを作成したプロジェクト。
 
-![アプリ画面](https://github.com/SEFWHITE-Dev/C-Sharp-SimpleRPG/tree/main/Images/01.png?raw=true)</br>
+![プログラム画面](https://github.com/SEFWHITE-Dev/C-Sharp-SimpleRPG/tree/main/Images/01.png?raw=true)</br>
 
 <h2>MVVM デザインパターン</h2>
 <h3>プロジェクト構成: </h3>
