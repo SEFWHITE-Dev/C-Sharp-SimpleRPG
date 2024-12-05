@@ -42,6 +42,7 @@ ItemFactoryクラスを初期化することで、コードが整理しやすく
 </br>
 Factoriesフォルダー内には、ItemFactory、MonsterFactory、QuestFactory、RecipeFactory、WorldFactory、などのinternal staticクラスがある。</br>
 </br></br>
+
 ![マップ映像](https://github.com/SEFWHITE-Dev/C-Sharp-SimpleRPG/tree/main/Images/Map.png?raw=true)</br>
 マップでは９か所に移動が可能。座標によってエンカウントするエンティティが変わる。</br>
 
