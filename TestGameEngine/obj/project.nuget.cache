@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQ/YNu0aCV4=",
+  "dgSpecHash": "VGgyeTsTUMQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\TestGameEngine.csproj",
+  "projectFilePath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\TestGameEngine\\TestGameEngine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shota\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\shota\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",

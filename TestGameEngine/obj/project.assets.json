@@ -1766,11 +1766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\TestGameEngine.csproj",
+      "projectUniqueName": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\TestGameEngine\\TestGameEngine.csproj",
       "projectName": "TestGameEngine",
-      "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\TestGameEngine.csproj",
+      "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\TestGameEngine\\TestGameEngine.csproj",
       "packagesPath": "C:\\Users\\shota\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\obj\\",
+      "outputPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\TestGameEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1793,8 +1793,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj": {
-              "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj"
+            "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj": {
+              "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj"
             }
           }
         }

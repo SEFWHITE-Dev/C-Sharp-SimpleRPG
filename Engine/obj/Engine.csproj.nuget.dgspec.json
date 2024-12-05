@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj": {}
+    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj": {
+    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj",
+        "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj",
         "packagesPath": "C:\\Users\\shota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\obj\\",
+        "outputPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

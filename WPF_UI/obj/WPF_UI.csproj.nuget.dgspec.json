@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\WPF_UI\\WPF_UI.csproj": {}
+    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\WPF_UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj": {
+    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj",
+        "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj",
         "packagesPath": "C:\\Users\\shota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\obj\\",
+        "outputPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\WPF_UI\\WPF_UI.csproj": {
+    "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\WPF_UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\WPF_UI\\WPF_UI.csproj",
+        "projectUniqueName": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\WPF_UI.csproj",
         "projectName": "WPF_UI",
-        "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\WPF_UI\\WPF_UI.csproj",
+        "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\WPF_UI.csproj",
         "packagesPath": "C:\\Users\\shota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\WPF_UI\\obj\\",
+        "outputPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -101,8 +101,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj": {
-                "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj"
+              "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj": {
+                "projectPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Engine.csproj"
               }
             }
           }

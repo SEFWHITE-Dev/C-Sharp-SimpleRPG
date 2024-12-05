@@ -54,7 +54,7 @@ namespace WPF_UI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_UI;component/tradescreen.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_UI;V1.0.0.0;component/tradescreen.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\TradeScreen.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
