@@ -7,7 +7,7 @@ C#とWPF(Windows Presentation Foundation) XAMLを使用してUIの表示を行�
 
 <h2>MVVM デザインパターン</h2>
 <h3>プロジェクト構成: </h3>
-WPF_UIソリューションは主に３つのプロジェクトがある。</br>
+WPF_UIソリューションは主に３つのプロジェクトで構成されている。</br>
 ・WPF_UIプロジェクトでは、XAMLで「タグ」を使い「グリッド」、「ボタン」などを制作。</br>
 ・Engineプロジェクトでは、C#でViewModel(GameSession)などのクラスを生成。</br>
 ・TestGameEngineプロジェクトでは、自動テストを制作。</br>
@@ -45,7 +45,15 @@ ItemFactoryクラスを初期化することで、コードが整理しやすく
 Factoriesフォルダー内には、ItemFactory、MonsterFactory、QuestFactory、RecipeFactory、WorldFactory、などのinternal staticクラスがある。</br>
 </br></br>
 
+<hr>
 
+<h2>継承よりもコンポジション デザインパターン</h2>
+アイテム制作（クラフト）という概念を搭載したい場合には、全てのアイテムをGameItemクラスから継承するよりは、</br>
+GameItemクラス内にアイテムの種類を示すパラメータをenumとして保存。（武器、使用アイテム、防具、など）</br>
+コンポジションを利用して、一つのクラスを複数の機能を取れるように構成する。</br>
+</br>
+元々Weaponクラスが存在し、GameItemクラスを継承していたが、アイテムのクラス種類を追加するほど、コードの管理がややこしくなり、</br>
+バグも突き止めにくくなる為、継承からコンポジションを使用する用にリファクタリングを行った。</br>
 
 <hr>
 
