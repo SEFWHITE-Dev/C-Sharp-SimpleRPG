@@ -1,7 +1,7 @@
 # C#-SimpleRPG
 An RPG created using C# and WPF implementing the ViewModel design logic.
 
-C#とWPF(Windows Presentation Foundation) XAMLを使用してUIの表示を行い、ゲームエンジンを作成したプロジェクト。
+C#とWPF(Windows Presentation Foundation) XAML .NET 8.0 を使用してUIの表示を行い、ゲームエンジンを作成したプロジェクト。
 
 ![プログラム画面](https://github.com/SEFWHITE-Dev/C-Sharp-SimpleRPG/tree/main/Images/01.png?raw=true)</br>
 
