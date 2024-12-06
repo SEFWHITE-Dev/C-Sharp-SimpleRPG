@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\gameitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\viewmodels\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\basenotificationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\factories\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
@@ -108,6 +120,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameItem.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\GameItem.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\GameItem.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\GameItem.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\GameItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:56:37.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\ViewModels\\GameSession.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\ViewModels\\GameSession.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\ViewModels\\GameSession.cs",
+              "RelativeToolTip": "..\\Engine\\ViewModels\\GameSession.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:22:14.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseNotificationClass.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\BaseNotificationClass.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\BaseNotificationClass.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\BaseNotificationClass.cs",
+              "RelativeToolTip": "..\\Engine\\BaseNotificationClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:18:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorldFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\WorldFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\WorldFactory.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\WorldFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\WorldFactory.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:43:54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -115,12 +179,11 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T03:05:24.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T03:05:24.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -131,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "WPF_UI.csproj",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\WPF_UI.csproj",
               "RelativeDocumentMoniker": "WPF_UI.csproj",
@@ -143,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Engine.csproj",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Engine.csproj",
@@ -155,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -166,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TestGameEngine.GlobalUsings.g.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\obj\\Debug\\net8.0\\TestGameEngine.GlobalUsings.g.cs",
               "RelativeDocumentMoniker": "..\\..\\TestGameEngine\\obj\\Debug\\net8.0\\TestGameEngine.GlobalUsings.g.cs",
@@ -178,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "TestGameSession.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\ViewModels\\TestGameSession.cs",
               "RelativeDocumentMoniker": "..\\..\\TestGameEngine\\ViewModels\\TestGameSession.cs",
@@ -190,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "TestGameEngine.csproj",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\TestGameEngine.csproj",
               "RelativeDocumentMoniker": "..\\..\\TestGameEngine\\TestGameEngine.csproj",
@@ -202,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "..\\..\\TestGameEngine\\MSTestSettings.cs",
@@ -214,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -226,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -238,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -250,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "QuestFactory.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Factories\\QuestFactory.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Factories\\QuestFactory.cs",
@@ -262,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Quest.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Quest.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Quest.cs",
@@ -274,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "MonsterEncounter.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\MonsterEncounter.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\MonsterEncounter.cs",
@@ -286,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Location.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Location.cs",
@@ -298,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "World.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\World.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\World.cs",
@@ -310,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "ItemQuantity.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\ItemQuantity.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\ItemQuantity.cs",
@@ -322,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "QuestStatus.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\QuestStatus.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\QuestStatus.cs",
@@ -334,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "BaseNotificationClass.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\BaseNotificationClass.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\BaseNotificationClass.cs",
@@ -346,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "GameSession.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\ViewModels\\GameSession.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\ViewModels\\GameSession.cs",
@@ -358,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Trader.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Trader.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Trader.cs",
@@ -370,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Monster.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Monster.cs",
@@ -382,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Player.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Player.cs",
@@ -394,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "LivingEntity.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\LivingEntity.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\LivingEntity.cs",
@@ -406,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "GroupedInventoryItem.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\GroupedInventoryItem.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\GroupedInventoryItem.cs",
@@ -418,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Weapon.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Weapon.cs",
@@ -430,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "GameItem.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\GameItem.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\GameItem.cs",
