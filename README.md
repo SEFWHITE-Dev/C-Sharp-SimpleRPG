@@ -39,7 +39,8 @@ PropertyChanged イベントを発生させるコードを追加する必要が�
 <h2>Factory Method デザインパターン</h2>
 GameSessionコンストラクタ内で新しいオブジェクト（Player, Location, Monster, Itemなど）を初期化し、</br>
 プロパティとして保存する事が可能だが、各クラスを初期化する度に多くのコードを追加する必要となる。</br>
-このプロジェクトでは、ItemFactoryクラスを生成して、その中に全Itemオブジェクトを初期化して、GameSessionクラス内では、</br>
+</br>
+このプロジェクトでは、ItemFactoryクラスを生成して、その中に全Itemオブジェクトを初期化して、GameSessionクラス内では、
 ItemFactoryクラスを初期化することで、コードが整理しやすくなる。</br>
 </br>
 Factoriesフォルダー内には、ItemFactory、MonsterFactory、QuestFactory、RecipeFactory、WorldFactory、などのinternal staticクラスがある。</br>
