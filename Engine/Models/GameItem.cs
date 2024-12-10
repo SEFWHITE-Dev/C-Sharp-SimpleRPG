@@ -43,8 +43,7 @@ namespace Engine.Models
         }
 
         // 'public new' is used when the parent Class has a function of the same name
-        // in this case, when Clone() is called on the Weapon object, we want to override the 
-        // Clone() function on the GameItem() class
+        // in this case, when Clone() is called on the Weapon object, we want to override the Clone() function on the GameItem() class
         public GameItem Clone()
         {
             return new GameItem(Category, ItemTypeID, Name, Price, IsUnique, Action);

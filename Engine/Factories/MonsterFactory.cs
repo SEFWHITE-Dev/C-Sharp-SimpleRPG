@@ -1,16 +1,81 @@
 ﻿using Engine.Models;
+using Engine.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 
 namespace Engine.Factories
 {
     public static class MonsterFactory
     {
+        // '\\' is the escape sequence used in C#
+        private const string GAME_DATA_FILENAME = ".\\GameData\\Monsters.xml";
+
+        // static collection variable to hold all the monsters
+        // 'readonly' attributed variable can only be set equal to something where it is declared, like below, or inside a constructor
+        private static readonly List<Monster> _baseMonsters = new List<Monster>();
+
+
+        static MonsterFactory()
+        {
+            if (File.Exists(GAME_DATA_FILENAME))
+            {
+                XmlDocument data = new XmlDocument();
+                data.LoadXml(File.ReadAllText(GAME_DATA_FILENAME));
+
+                string rootImagePath = data.SelectSingleNode("/Monsters").AttributeAsString("RootImagePath");
+
+                LoadMonstersFromNodes(data.SelectNodes("/Monsters/Monster"), rootImagePath);
+            }
+            else
+            {
+                throw new FileNotFoundException($"Missing data file {GAME_DATA_FILENAME}");
+            }
+        }
+
+        private static void LoadMonstersFromNodes(XmlNodeList nodes, string rootImagePath)
+        {
+            if(nodes == null)
+            {
+                return;
+            }
+
+            foreach (XmlNode node in nodes) 
+            {
+                Monster monster = new Monster(
+                    node.AttributeAsInt("ID"),
+                    node.AttributeAsString("Name"),
+                    $".{rootImagePath}{node.AttributeAsString("ImageName")}",
+                    node.AttributeAsInt("MaxHealth"),
+                    ItemFactory.CreateGameItem(node.AttributeAsInt("WeaponID")),
+                    node.AttributeAsInt("RewardEXP"),
+                    node.AttributeAsInt("Gold"));
+
+                XmlNodeList lootItemNodes = node.SelectNodes("./LootItems/LootItem");
+                if(lootItemNodes != null)
+                {
+                    foreach(XmlNode lootItemNode in lootItemNodes)
+                    {
+                        monster.AddItemToLootTable(lootItemNode.AttributeAsInt("ID"), lootItemNode.AttributeAsInt("Percentage"));
+                    }
+                }
+
+                _baseMonsters.Add(monster);
+            }
+        }
+
         public static Monster GetMonster(int monsterID)
         {
+            return _baseMonsters.FirstOrDefault(m => m.ID == monsterID)?.GetNewInstance();
+        }
+
+        /* OLD 
+        public static Monster GetMonster(int monsterID)
+        {
+
             switch (monsterID)
             {
                 case 1:
@@ -56,5 +121,6 @@ namespace Engine.Factories
                 monster.AddItemToInventory(ItemFactory.CreateGameItem(itemID));
             }
         }
+        */
     }
 }

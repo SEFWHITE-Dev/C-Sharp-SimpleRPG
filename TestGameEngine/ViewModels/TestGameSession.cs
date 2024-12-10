@@ -12,7 +12,7 @@ public class TestGameSession
         GameSession gameSession = new GameSession();
 
         Assert.IsNotNull(gameSession.CurrentPlayer); // Assert means, we expect this condition to be true
-        Assert.AreEqual("Town square", gameSession.CurrentLocation.Name);
+        Assert.AreEqual("Town Square", gameSession.CurrentLocation.Name);
     }
 
     [TestMethod]

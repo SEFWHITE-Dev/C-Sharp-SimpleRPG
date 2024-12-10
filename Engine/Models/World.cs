@@ -13,9 +13,14 @@ namespace Engine.Models
         // 'generic' allows to any type of object
         private List<Location> _locations = new List<Location>();
 
-        internal void AddLocation(int xCoordinate, int yCoordinate, string name, string description, string iamgeName)
+        //internal void AddLocation(int xCoordinate, int yCoordinate, string name, string description, string iamgeName)
+        //{
+        //    _locations.Add(new Location(xCoordinate, yCoordinate, name, description, $"pack://application:,,,/Engine;component/Images/Locations/{iamgeName}"));               
+        //}
+
+        internal void AddLocation(Location location)
         {
-            _locations.Add(new Location(xCoordinate, yCoordinate, name, description, $"pack://application:,,,/Engine;component/Images/Locations/{iamgeName}"));               
+            _locations.Add(location);
         }
 
 

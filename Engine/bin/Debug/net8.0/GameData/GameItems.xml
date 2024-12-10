@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<GameItems>
+  <Weapons>
+    <Weapon ID="1001" Name="Stick" Price="1" MinimumDamage="1" MaximumDamage="2"/>
+    <Weapon ID="1002" Name="Broken sword" Price="5" MinimumDamage="4" MaximumDamage="6"/>
+    
+    <Weapon ID="1501" Name="Chicekn Talons" Price="0" MinimumDamage="0" MaximumDamage="2"/>
+    <Weapon ID="1502" Name="Skele  Bones" Price="0" MinimumDamage="0" MaximumDamage="2"/>
+    <Weapon ID="1503" Name="Slime Goop" Price="0" MinimumDamage="0" MaximumDamage="3"/>
+  </Weapons>
+  
+  <HealingItems>
+    <HealingItem ID="2001" Name="Health Potion" Price="5" HealAmaount="10"/>
+  </HealingItems>
+  
+  <MiscellaneousItems>
+    <MiscellaneousItem ID="3001" Name="Tuna Oil" Price="1"/>
+    <MiscellaneousItem ID="3002" Name="Honey" Price="2"/>
+    <MiscellaneousItem ID="3003" Name="Herb" Price="2"/>
+    
+    <MiscellaneousItem ID="9001" Name="Chicekn Talons" Price="1"/>
+    <MiscellaneousItem ID="9002" Name="Chicekn Feathers" Price="2"/>
+    <MiscellaneousItem ID="9003" Name="Skele  Bones" Price="1"/>
+    <MiscellaneousItem ID="9004" Name="Skele  Soul" Price="2"/>
+    <MiscellaneousItem ID="9005" Name="Slime Goop" Price="1"/>
+    <MiscellaneousItem ID="9006" Name="Slime Acid" Price="2"/>
+  </MiscellaneousItems>
+  
+</GameItems>

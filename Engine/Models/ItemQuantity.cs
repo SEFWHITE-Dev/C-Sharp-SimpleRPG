@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Engine.Factories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,8 @@ namespace Engine.Models
         // there should be no need to set another value to these parameters outside the constructor, hence no setter
         public int ItemID { get; }
         public int Quantity { get; }
+
+        public string QuantityItemDescription => $"{Quantity} {ItemFactory.ItemName(ItemID)}";
 
         public ItemQuantity(int itemID, int quantity) 
         { 

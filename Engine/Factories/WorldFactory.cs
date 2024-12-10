@@ -1,4 +1,7 @@
 ﻿using Engine.Models;
+using Engine.Shared;
+using System.Diagnostics;
+using System.Xml;
 
 namespace Engine.Factories
 {
@@ -13,10 +16,30 @@ namespace Engine.Factories
     // creating static variables where the value is changed in multiple locations can lead to hard to track down bugs
     internal static class WorldFactory
     {
+        private const string GAME_DATA_FILENAME = ".\\GameData\\Locations.xml";
+
         internal static World CreateWorld()
         {
             World newWorld = new World();
-        
+
+            if (File.Exists(GAME_DATA_FILENAME))
+            {
+                XmlDocument data = new XmlDocument();
+                data.LoadXml(File.ReadAllText(GAME_DATA_FILENAME));
+
+                string rootImagePath = data.SelectSingleNode("/Locations").AttributeAsString("RootImagePath");
+
+                LoadLocationsFromNodes(newWorld, rootImagePath, data.SelectNodes("/Locations/Location")); 
+            }
+            else
+            {
+                throw new FileNotFoundException($"Missing data file {GAME_DATA_FILENAME}");
+            }
+            return newWorld;
+            
+            /* OLD CONSTRUCTOR
+            World newWorld = new World();
+
             // Add Map Locations
             newWorld.AddLocation(0, -1, "Home", "This is your home.", "Home.png");
             newWorld.AddLocation(-1, -1, "Farm House", "A farm.", "FarmHouse.png");
@@ -44,6 +67,69 @@ namespace Engine.Factories
 
 
             return newWorld;
+            */
+        }
+
+        private static void LoadLocationsFromNodes(World world, string rootImagePath, XmlNodeList nodes)
+        {
+            if (nodes == null)
+            {
+                return;
+            }
+
+            foreach (XmlNode node in nodes)
+            {
+                Location location = new Location(node.AttributeAsInt("X"),
+                    node.AttributeAsInt("Y"),
+                    node.AttributeAsString("Name"),
+                    node.SelectSingleNode("./Description")?.InnerText ?? "", // InnerText is not an attribute but the content between the tags
+                    $".{rootImagePath}{node.AttributeAsString("ImageName")}" );
+
+                AddMonsters(location, node.SelectNodes("./Monsters/Monster"));
+                AddQuests(location, node.SelectNodes("./Quests/Quest"));
+                AddTrader(location, node.SelectSingleNode("./Trader"));
+
+                world.AddLocation(location);
+            }
+        }
+
+        private static void AddMonsters(Location location, XmlNodeList monsters)
+        {
+            if(monsters == null)
+            {
+                Debug.Print("no monsters");
+                return;
+                
+            }
+
+            foreach (XmlNode monsterNode in monsters)
+            {
+                Debug.Print("monsters adddedd");
+                location.AddMonster(monsterNode.AttributeAsInt("ID"), monsterNode.AttributeAsInt("Percent"));
+            }
+        }
+
+        private static void AddQuests(Location location, XmlNodeList quests)
+        {
+            if (quests == null)
+            {
+                return;
+            }
+
+            foreach (XmlNode questNode in quests)
+            {
+                location.QuestsAvailableHere.Add(QuestFactory.GetQuestByID(questNode.AttributeAsInt("ID")));        
+            }
+        }
+
+        private static void AddTrader(Location location, XmlNode traders)
+        {
+            if (traders == null)
+            {
+                return;
+            }
+            location.TraderHere = TraderFactory.GetTraderByID(traders.AttributeAsInt("ID"));
+    
         }
     }
 }

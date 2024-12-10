@@ -3,16 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\gameitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\factories\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\viewmodels\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\basenotificationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\factories\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
@@ -23,8 +17,102 @@
       "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\gamedata\\quests.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\itemquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D90E328-2011-4FEF-AD82-DD7701943091}|..\\TestGameEngine\\TestGameEngine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\testgameengine\\viewmodels\\testgamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D90E328-2011-4FEF-AD82-DD7701943091}|..\\TestGameEngine\\TestGameEngine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\testgameengine\\viewmodels\\testattackwithweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\gamedata\\monsters.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\actions\\attackwithweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\factories\\itemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\gamedata\\gameitems.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\factories\\recipefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shota\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\gamedata\\locations.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\factories\\traderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\factories\\questfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\trader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\gamedata\\recipes.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\gamedata\\traders.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\factories\\monsterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\itempercentage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\customconverters\\filetobitmapconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:customconverters\\filetobitmapconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\gameitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\wpf_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:wpf_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\models\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\shared\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63478FD3-8E7D-4C98-AFED-E924691101C5}|..\\Engine\\Engine.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\engine\\basenotificationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\obj\\Debug\\net8.0\\TestGameEngine.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -33,15 +121,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\wpf_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:wpf_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c# rpg\\c-simplerpg\\wpf_ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{190F8991-F718-47A7-ADD5-FFFF2F70607A}|WPF_UI.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -111,23 +191,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileToBitMapConverter.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\CustomConverters\\FileToBitMapConverter.cs",
+              "RelativeDocumentMoniker": "CustomConverters\\FileToBitMapConverter.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\CustomConverters\\FileToBitMapConverter.cs",
+              "RelativeToolTip": "CustomConverters\\FileToBitMapConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:36:12.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Locations.xml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Locations.xml",
+              "RelativeDocumentMoniker": "..\\Engine\\GameData\\Locations.xml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Locations.xml",
+              "RelativeToolTip": "..\\Engine\\GameData\\Locations.xml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-06T08:02:37.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ItemFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\ItemFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\ItemFactory.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\ItemFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\ItemFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:58:00.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T02:46:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\Recipe.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:24:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:00:05.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Services\\LoggingService.cs",
+              "RelativeToolTip": "..\\Engine\\Services\\LoggingService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:10:37.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:00:08.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameItem.cs",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\GameItem.cs",
-              "RelativeDocumentMoniker": "..\\Engine\\Models\\GameItem.cs",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\GameItem.cs",
-              "RelativeToolTip": "..\\Engine\\Models\\GameItem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "WorldFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\WorldFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\WorldFactory.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\WorldFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\WorldFactory.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:56:37.349Z",
+              "WhenOpened": "2024-12-05T03:43:54Z",
               "EditorCaption": ""
             },
             {
@@ -138,7 +316,7 @@
               "RelativeDocumentMoniker": "..\\Engine\\ViewModels\\GameSession.cs",
               "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\ViewModels\\GameSession.cs",
               "RelativeToolTip": "..\\Engine\\ViewModels\\GameSession.cs",
-              "ViewState": "AgIAAN4AAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoBAAAAAAAAAAAwwCMBAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T06:22:14.065Z",
               "EditorCaption": ""
@@ -146,6 +324,253 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAtwEEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:05:24.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Quests.xml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Quests.xml",
+              "RelativeDocumentMoniker": "..\\Engine\\GameData\\Quests.xml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Quests.xml",
+              "RelativeToolTip": "..\\Engine\\GameData\\Quests.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-10T02:50:33.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestAttackWithWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\TestGameEngine\\ViewModels\\TestAttackWithWeapon.cs",
+              "RelativeDocumentMoniker": "..\\TestGameEngine\\ViewModels\\TestAttackWithWeapon.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\TestGameEngine\\ViewModels\\TestAttackWithWeapon.cs",
+              "RelativeToolTip": "..\\TestGameEngine\\ViewModels\\TestAttackWithWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:11:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestGameSession.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\TestGameEngine\\ViewModels\\TestGameSession.cs",
+              "RelativeDocumentMoniker": "..\\TestGameEngine\\ViewModels\\TestGameSession.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\TestGameEngine\\ViewModels\\TestGameSession.cs",
+              "RelativeToolTip": "..\\TestGameEngine\\ViewModels\\TestGameSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:17:55.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemQuantity.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\ItemQuantity.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\ItemQuantity.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\ItemQuantity.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\ItemQuantity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:18:41.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\Quest.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\Quest.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\Quest.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\Quest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:19:56.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\Monster.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\Monster.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\Monster.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\Monster.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:22:23.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Recipes.xml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Recipes.xml",
+              "RelativeDocumentMoniker": "..\\Engine\\GameData\\Recipes.xml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Recipes.xml",
+              "RelativeToolTip": "..\\Engine\\GameData\\Recipes.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-10T02:50:45.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameItems.xml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\GameItems.xml",
+              "RelativeDocumentMoniker": "..\\Engine\\GameData\\GameItems.xml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\GameItems.xml",
+              "RelativeToolTip": "..\\Engine\\GameData\\GameItems.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-06T03:54:23.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttackWithWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Actions\\AttackWithWeapon.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Actions\\AttackWithWeapon.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Actions\\AttackWithWeapon.cs",
+              "RelativeToolTip": "..\\Engine\\Actions\\AttackWithWeapon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:25:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Trader.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\Trader.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\Trader.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\Trader.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\Trader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:53:12.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuestFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\QuestFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\QuestFactory.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\QuestFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\QuestFactory.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:53:56.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Monsters.xml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Monsters.xml",
+              "RelativeDocumentMoniker": "..\\Engine\\GameData\\Monsters.xml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Monsters.xml",
+              "RelativeToolTip": "..\\Engine\\GameData\\Monsters.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-09T05:34:24.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Traders.xml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Traders.xml",
+              "RelativeDocumentMoniker": "..\\Engine\\GameData\\Traders.xml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\GameData\\Traders.xml",
+              "RelativeToolTip": "..\\Engine\\GameData\\Traders.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-10T02:50:55.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecipeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\RecipeFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\RecipeFactory.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\RecipeFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\RecipeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:04:06.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\shota\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAEwIgBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:09:13.658Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TraderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\TraderFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\TraderFactory.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\TraderFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\TraderFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:00:21.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MonsterFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\MonsterFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\MonsterFactory.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\MonsterFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\MonsterFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:42:06.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ItemPercentage.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\ItemPercentage.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\ItemPercentage.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\ItemPercentage.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\ItemPercentage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:20:52.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "BaseNotificationClass.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\BaseNotificationClass.cs",
               "RelativeDocumentMoniker": "..\\Engine\\BaseNotificationClass.cs",
@@ -153,48 +578,47 @@
               "RelativeToolTip": "..\\Engine\\BaseNotificationClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T04:18:36.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T04:18:36.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WorldFactory.cs",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\WorldFactory.cs",
-              "RelativeDocumentMoniker": "..\\Engine\\Factories\\WorldFactory.cs",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Factories\\WorldFactory.cs",
-              "RelativeToolTip": "..\\Engine\\Factories\\WorldFactory.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T03:43:54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:00:18.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 29,
+              "Title": "GameItem.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\GameItem.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\GameItem.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\GameItem.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\GameItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T03:05:24.925Z"
+              "WhenOpened": "2024-12-05T06:56:37.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-05T02:46:24.377Z"
+              "DocumentIndex": 32,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\World.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\World.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Models\\World.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:13.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "WPF_UI.csproj",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\WPF_UI.csproj",
               "RelativeDocumentMoniker": "WPF_UI.csproj",
@@ -202,11 +626,24 @@
               "RelativeToolTip": "WPF_UI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-03T07:38:18.645Z"
+              "WhenOpened": "2024-12-03T07:38:18.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 33,
+              "Title": "ExtentionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Shared\\ExtentionMethods.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Shared\\ExtentionMethods.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\Engine\\Shared\\ExtentionMethods.cs",
+              "RelativeToolTip": "..\\Engine\\Shared\\ExtentionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:28:09.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "Engine.csproj",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Engine.csproj",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Engine.csproj",
@@ -218,18 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T07:00:08.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 35,
               "Title": "TestGameEngine.GlobalUsings.g.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\obj\\Debug\\net8.0\\TestGameEngine.GlobalUsings.g.cs",
               "RelativeDocumentMoniker": "..\\..\\TestGameEngine\\obj\\Debug\\net8.0\\TestGameEngine.GlobalUsings.g.cs",
@@ -241,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 40,
               "Title": "TestGameSession.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\ViewModels\\TestGameSession.cs",
               "RelativeDocumentMoniker": "..\\..\\TestGameEngine\\ViewModels\\TestGameSession.cs",
@@ -253,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 41,
               "Title": "TestGameEngine.csproj",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\TestGameEngine.csproj",
               "RelativeDocumentMoniker": "..\\..\\TestGameEngine\\TestGameEngine.csproj",
@@ -265,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 42,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\TestGameEngine\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "..\\..\\TestGameEngine\\MSTestSettings.cs",
@@ -277,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 36,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -289,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 37,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -301,19 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\C-SimpleRPG\\WPF_UI\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T07:00:05.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 43,
               "Title": "QuestFactory.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Factories\\QuestFactory.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Factories\\QuestFactory.cs",
@@ -325,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 44,
               "Title": "Quest.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Quest.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Quest.cs",
@@ -337,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 45,
               "Title": "MonsterEncounter.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\MonsterEncounter.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\MonsterEncounter.cs",
@@ -349,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 46,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Location.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Location.cs",
@@ -361,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 47,
               "Title": "World.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\World.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\World.cs",
@@ -373,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 48,
               "Title": "ItemQuantity.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\ItemQuantity.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\ItemQuantity.cs",
@@ -385,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 49,
               "Title": "QuestStatus.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\QuestStatus.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\QuestStatus.cs",
@@ -397,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 50,
               "Title": "BaseNotificationClass.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\BaseNotificationClass.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\BaseNotificationClass.cs",
@@ -409,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 51,
               "Title": "GameSession.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\ViewModels\\GameSession.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\ViewModels\\GameSession.cs",
@@ -421,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 52,
               "Title": "Trader.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Trader.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Trader.cs",
@@ -433,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 53,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Monster.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Monster.cs",
@@ -445,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 54,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Player.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Player.cs",
@@ -457,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 55,
               "Title": "LivingEntity.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\LivingEntity.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\LivingEntity.cs",
@@ -469,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 56,
               "Title": "GroupedInventoryItem.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\GroupedInventoryItem.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\GroupedInventoryItem.cs",
@@ -481,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 38,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\Weapon.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\Weapon.cs",
@@ -493,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 57,
               "Title": "GameItem.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C# RPG\\Engine\\Models\\GameItem.cs",
               "RelativeDocumentMoniker": "..\\..\\Engine\\Models\\GameItem.cs",

@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using Engine.Factories;
 using System.ComponentModel;
 using Engine.EventArgs;
+using System.Diagnostics;
+using System.Runtime.InteropServices;
 
 namespace Engine.ViewModels
 {
@@ -279,10 +281,16 @@ namespace Engine.ViewModels
 
         public void AttackCurrentMonster()
         {
+            // a guard clause/ early exit for if a Monster doesn't exist
+            if (CurrentMonster == null ) {
+                return; 
+            }
+
+            Debug.Print("current monster isnt null");
+
             // a guard clause/ early exit for if the player doesn't have a weapon
             if (CurrentPlayer.CurrentWeapon == null)
             {
-                RaiseMessage("Equip a Weapon to Attack.");
                 return;
             }
 
@@ -302,7 +310,10 @@ namespace Engine.ViewModels
 
         public void UseCurrentConsumable() // helper function so when the funciton is called by the MainWindow.xaml.cs, it doesn't have to call a deeply nested function
         {
-            CurrentPlayer.UseCurrentConsumable();
+            if (CurrentPlayer.CurrentConsumable != null)
+            {
+                CurrentPlayer.UseCurrentConsumable();
+            }
         }
 
         public void CraftItemUsing(Recipe recipe)
